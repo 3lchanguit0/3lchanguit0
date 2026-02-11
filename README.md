@@ -18,7 +18,6 @@
 ### 🖥️ Kali GNOME Interface
 3lchanguit0 gives a comprehensive UI and a specialized workspace for hardware hacking.
 - **GNOME Shell Layout**: Left Dock (Dash) for quick application launching.
-- **Window Management**: GTK-styled window decorations with dark mode aesthetics.
 - **Terminal Integration**: A dedicated `root@kali:~` command-line interface for system logging, simulated command execution, and status feedback.
 - **Activities Overview**: Streamlined workflow management designed for rapid tool switching during engagements.
 
