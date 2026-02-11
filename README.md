@@ -16,7 +16,7 @@
 
 <div align="center">
   
-🚧 **Work In Progress (WIP)**
+🚧 ## Work In Progress (WIP)
 
 </div>
 
