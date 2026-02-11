@@ -1,12 +1,10 @@
 # 3𝖑𝖈𝖍𝖆𝖓𝖌𝖚𝖎𝖙0
----
 
 **3lchanguit0** is a centralized firmware management terminal and penetration testing dashboard/multi-tool designed for **Kali Linux**. It unifies powerful offensive security tools into a single, minimalist interface that replicates the **GNOME Desktop Environment** found in modern Kali distributions.
 
 ---
 
 ## 🚀 System Features
-
 
 ### 🖥️ Kali GNOME Interface
 3lchanguit0 gives a comprehensive UI and a specialized workspace for hardware hacking.
