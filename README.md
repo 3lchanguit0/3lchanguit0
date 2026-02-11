@@ -91,7 +91,7 @@ The firmware management suite supports the following chipsets and boards:
 
 ### ⚠️ 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭!
 **To use some of the features you will need one of the ESP32 mentioned above. 3lchanguit0 must be flashed on your ESP32.**
-I'm currently working on the flasher and the `.bin`
+**I'm currently working on the flasher and the `.bin`**
 
 ---
 
