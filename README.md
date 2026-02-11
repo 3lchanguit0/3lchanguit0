@@ -5,7 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
-**3lchanguit0** is a centralized security tool management terminal and pentesting dashboard designed for **Kali Linux**. It unifies powerful offensive security tools into a single, minimalist interface that replicates the **GNOME Desktop Environment** found in modern Kali distributions.
+**3lchanguit0** is a centralized security tool management terminal and pentesting dashboard designed for **Kali Linux**. It unifies powerful offensive security tools into a single minimalist interface with the **GNOME Desktop Environment**.
 
 🚧 Work In Progress (WIP)
 
