@@ -1,16 +1,86 @@
-## Hi there 👋
+# 3lchanguit0
 
-<!--
-**3lchanguit0/3lchanguit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**3lchanguit0** is a centralized firmware management terminal and penetration testing dashboard/multi-tool designed for **Kali Linux**. It unifies powerful offensive security tools into a single, minimalist interface that replicates the **GNOME Desktop Environment** found in modern Kali distributions.
 
-Here are some ideas to get you started:
+## 🚀 System Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Kali GNOME Interface
+3lchanguit0 gives a comprehensive UI and a specialized workspace for hardware hacking.
+- **GNOME Shell Layout**: Left Dock (Dash) for quick application launching.
+- **Window Management**: GTK-styled window decorations with dark mode aesthetics.
+- **Terminal Integration**: A dedicated `root@kali:~` command-line interface for system logging, simulated command execution, and status feedback.
+- **Activities Overview**: Streamlined workflow management designed for rapid tool switching during engagements.
+
+---
+
+## 🛠 Application Tools (Arsenal)
+
+The **TOOLS** suite is the core of 3lchanguit0, categorizing capabilities across the wireless spectrum to ensure you have the right tool for every frequency.
+
+### 📶 WI-FI (802.11)
+Dominate the 2.4GHz spectrum with standard auditing and attack tools.
+- **Deauthentication**: Forcefully disconnect clients from Access Points to capture handshakes.
+- **Beacon Spam**: Generate thousands of fake Access Points to confuse scanners and decloak hidden networks.
+- **PMKID Capture**: Harvest PMKID from APs for offline hash cracking.
+- **Captive Portal**: Deploy phishing login pages for credential harvesting (Evil Twin attacks).
+- **Hidden SSID**: Broadcast invisible networks for stealth operations.
+
+### 🦷 BLE (Bluetooth Low Energy)
+Interact with the growing world of IoT and mobile devices.
+- **BLE Spammer**: Flood advertisements to test the stability of nearby iOS/Android devices ("Sour Apple" attacks).
+- **BLE Sniffer**: Detect, log, and analyze nearby Bluetooth Low Energy peripherals and trackers.
+
+### 📡 CC1101 & NRF24 (Sub-GHz)
+Expand your reach beyond Wi-Fi into RF and proprietary protocols.
+- **Sub-GHz Jamming**: Interfere with signals in the 433MHz, 868MHz, and 915MHz bands.
+- **Spectrum Analyzer**: Visualize RF density to detect hidden transmitters or interference.
+- **MouseJacking**: Inject keystrokes into vulnerable wireless mice and keyboards.
+- **Replay Attack**: Record and retransmit RF signals (e.g., garage doors, gates).
+
+### 📺 IR (Infrared)
+Control legacy hardware and consumer electronics via optical signals.
+- **TV-B-Gone**: Universal power-off codes for turning off displays in public spaces.
+- **IR Cloning**: Copy remote controls for later playback.
+- **Brute Force**: Cycle through known codes to find the correct signal for a target device.
+
+### ⚙️ SYS / THEME
+System-level utilities for hardware management and stealth.
+- **Stealth Mode**: Instantly disable all LEDs and screens for covert operation.
+- **Payload Delivery**: Emulate USB HID devices to execute scripts rapidly (Rubber Ducky style).
+- **OTA Updates**: Wireless firmware flashing and management.
+
+---
+
+## 📂 Project Credits & Firmware Sources
+
+3lchanguit0 aggregates and manages the following open-source projects. While the interface uses system codenames (UNIT_ZERO, OMEGA_CORE, etc.), the power comes from these incredible community efforts:
+
+- **SYS_ALPHA**: based on [BruceDevices Firmware](https://github.com/BruceDevices/firmware)
+- **UNIT_ZERO**: based on [M5Stick-Nemo](https://github.com/n0xa/m5stick-nemo)
+- **GHOST_PROTOCOL**: based on [Infiltra-Firmware](https://github.com/D3CRYPT-1/Infiltra-Firmware)
+- **OMEGA_CORE**: based on [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)
+
+## 🛠 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/3lchanguit0.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+## ⚠️ Disclaimer
+
+**Authorized Use Only.**
+This software is intended for educational purposes and authorized security auditing only. 3lchanguit0 assumes no liability for misuse of this software or the firmware projects it references. Ensure you have explicit permission from the owner of any network or device you test. Use it responsibly and within the boundaries of your country laws.
+
+
+## 📄 License
+
+MIT License
