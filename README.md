@@ -76,7 +76,7 @@ The firmware management suite supports the following chipsets and boards:
 
 ## 📂 Project Credits & Firmware Sources
 
-3lchanguit0 manages the following open-source projects. While the interface uses system codenames (UNIT_ZERO, OMEGA_CORE, etc.), the power comes from these incredible community efforts:
+- **[3lchanguit0](https://github.com/3lchanguit0)** manages the following open-source projects. While the interface uses system codenames (UNIT_ZERO, OMEGA_CORE, etc.), the power comes from these incredible community efforts:
 
 - **SYS_ALPHA**: based on [BruceDevices Firmware](https://github.com/BruceDevices/firmware)
 - **UNIT_ZERO**: based on [M5Stick-Nemo](https://github.com/n0xa/m5stick-nemo)
