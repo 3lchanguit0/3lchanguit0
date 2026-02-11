@@ -4,6 +4,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
+
+![elchanguito](https://github.com/user-attachments/assets/848eefb3-c6a7-4fb7-893f-a881ea70b01c)
+
+
 **3lchanguit0** is a centralized security tool management terminal and pentesting dashboard designed for **Kali Linux**. It unifies powerful offensive security tools into a single minimalist interface with the **GNOME Desktop Environment**.
 
 ---
