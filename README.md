@@ -7,6 +7,8 @@
 
 **3lchanguit0** is a centralized security tool management terminal and pentesting dashboard designed for **Kali Linux**. It unifies powerful offensive security tools into a single, minimalist interface that replicates the **GNOME Desktop Environment** found in modern Kali distributions.
 
+🚧 Work In Progress (WIP)
+
 ---
 
 ## 🚀 System Features
