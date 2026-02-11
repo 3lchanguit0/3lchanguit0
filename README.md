@@ -85,6 +85,10 @@ The firmware management suite supports the following chipsets and boards:
   - NRF24L01 (for 2.4GHz sniffing).
   - IR Blaster (Built-in on M5Stick).
 
+### ⚠️ Important!
+**To use some of the features you will need one of the ESP32 mentioned above. 3lchanguit0 must be flashed on your ESP32.**
+I'm currently working on the flasher and the `.bin`
+
 ---
 
 ## 📂 Credits & Firmware Sources
