@@ -7,7 +7,6 @@
 
 ## 🚀 System Features
 
----
 
 ### 🖥️ Kali GNOME Interface
 3lchanguit0 gives a comprehensive UI and a specialized workspace for hardware hacking.
