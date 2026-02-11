@@ -10,7 +10,7 @@
 
 </div>
 
-**3𝖑𝖈𝖍𝖆𝖓𝖌𝖚𝖎𝖙0** is a centralized security tool management terminal and pentesting dashboard designed for **Kali Linux**. It unifies powerful offensive security tools into a simple minimalist interface usinf the **GNOME Desktop Environment**.
+**3𝖑𝖈𝖍𝖆𝖓𝖌𝖚𝖎𝖙0** is a centralized security tool management terminal and pentesting dashboard designed for **Kali Linux**. It unifies powerful offensive security tools into a simple minimalist interface using the **GNOME Desktop Environment**.
 
 ---
 
@@ -19,14 +19,6 @@
 ---
 
 ## 🚀 System Features
-
-### 🖥️ Kali GNOME Interface
-3lchanguit0 gives a comprehensive UI and a specialized workspace for hardware hacking.
-- **GNOME Shell Layout**: Left Dock (Dash) for quick application launching.
-- **Terminal Integration**: A dedicated `root@kali:~` command-line interface for system logging, simulated command execution, and status feedback.
-- **Activities Overview**: Streamlined workflow management designed for rapid tool switching during engagements.
-
----
 
 ## 🛠 Application Tools (Arsenal)
 
@@ -66,6 +58,14 @@ System-level utilities for hardware management and stealth.
 
 ---
 
+### 🖥️ Kali GNOME Interface
+3lchanguit0 gives a comprehensive UI and a specialized workspace for hardware hacking.
+- **GNOME Shell Layout**: Left Dock (Dash) for quick application launching.
+- **Terminal Integration**: A dedicated `root@kali:~` command-line interface for system logging, simulated command execution, and status feedback.
+- **Activities Overview**: Streamlined workflow management designed for rapid tool switching during engagements.
+
+---
+
 ## 💻 Requirements
 
 To ensure optimal performance and compatibility, the following environment is recommended:
@@ -87,10 +87,9 @@ The firmware management suite supports the following chipsets and boards:
 
 ---
 
-## 📂 Project Credits & Firmware Sources
+## 📂 Credits & Firmware Sources
 
-- **[3lchanguit0](https://github.com/3lchanguit0)** manages the following open-source projects. While the interface uses system codenames (UNIT_ZERO, OMEGA_CORE, etc.), the power comes from these incredible community efforts:
-
+- **[3lchanguit0](https://github.com/3lchanguit0)** manages the following open-source projects.
 - **SYS_ALPHA**: based on [BruceDevices Firmware](https://github.com/BruceDevices/firmware)
 - **UNIT_ZERO**: based on [M5Stick-Nemo](https://github.com/n0xa/m5stick-nemo)
 - **GHOST_PROTOCOL**: based on [Infiltra-Firmware](https://github.com/D3CRYPT-1/Infiltra-Firmware)
