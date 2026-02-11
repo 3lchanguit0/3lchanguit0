@@ -8,7 +8,7 @@
 
 ---
 
-🚧 Work In Progress (WIP)
+🚧 **Work In Progress (WIP)**
 
 ---
 
