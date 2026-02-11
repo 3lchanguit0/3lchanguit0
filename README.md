@@ -1,4 +1,5 @@
-# 3lchanguit0
+# 
+3̴̫̐̀̀̆̕ļ̵̨̡͍̹̻͙̲̄̒͛͒̓̑c̴̛̟̭͓̰̮̺͍͂̈̚͠h̸͇̯̍̋́̔͐̔̔͂͝ä̵̤̱͎͖̤̹̙͙̜́̈́̈́̉̉̕ǹ̵̛̜̪͓͚̣̟̳͓͚̑̾͜ğ̶̳̳͍̖̭̑ú̶̘̪̾̌͗͂͌î̸̛̲̺̦̿͑̿̍͘̕͝t̷͕̟̼̝͓̱͑̂̽̿̋̿̏̿̎͘0̷̮̠̑̅̄͊̍͜͝͝
 
 **3lchanguit0** is a centralized firmware management terminal and penetration testing dashboard/multi-tool designed for **Kali Linux**. It unifies powerful offensive security tools into a single, minimalist interface that replicates the **GNOME Desktop Environment** found in modern Kali distributions.
 
@@ -51,14 +52,37 @@ System-level utilities for hardware management and stealth.
 
 ---
 
+## 💻 Requirements
+
+To ensure optimal performance and compatibility, the following environment is recommended:
+
+### Software
+- **Operating System**: Kali Linux 2023.x or newer (Recommended for native tool integration).
+- **Runtime**: Node.js v16.0.0 or higher.
+- **Package Manager**: npm (v8+) or yarn.
+- **Browser**: Chromium-based browser (Chrome, Brave, Edge) with WebSerial API support for flashing features.
+
+### Hardware Support
+The firmware management suite supports the following chipsets and boards:
+- **Espressif**: ESP32 WROOM, ESP32 WROVER.
+- **M5Stack**: M5StickC, M5StickC Plus, M5StickC Plus 2, Cardputer.
+- **Peripherals** (Optional): 
+  - CC1101 Transceiver (for Sub-GHz).
+  - NRF24L01 (for 2.4GHz sniffing).
+  - IR Blaster (Built-in on M5Stick).
+
+---
+
 ## 📂 Project Credits & Firmware Sources
 
-3lchanguit0 aggregates and manages the following open-source projects. While the interface uses system codenames (UNIT_ZERO, OMEGA_CORE, etc.), the power comes from these incredible community efforts:
+3lchanguit0 manages the following open-source projects. While the interface uses system codenames (UNIT_ZERO, OMEGA_CORE, etc.), the power comes from these incredible community efforts:
 
 - **SYS_ALPHA**: based on [BruceDevices Firmware](https://github.com/BruceDevices/firmware)
 - **UNIT_ZERO**: based on [M5Stick-Nemo](https://github.com/n0xa/m5stick-nemo)
 - **GHOST_PROTOCOL**: based on [Infiltra-Firmware](https://github.com/D3CRYPT-1/Infiltra-Firmware)
 - **OMEGA_CORE**: based on [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)
+
+---
 
 ## 🛠 Installation
 
@@ -75,11 +99,14 @@ System-level utilities for hardware management and stealth.
    npm run dev
    ```
 
+---
+
 ## ⚠️ Disclaimer
 
 **Authorized Use Only.**
 This software is intended for educational purposes and authorized security auditing only. 3lchanguit0 assumes no liability for misuse of this software or the firmware projects it references. Ensure you have explicit permission from the owner of any network or device you test. Use it responsibly and within the boundaries of your country laws.
 
+---
 
 ## 📄 License
 
